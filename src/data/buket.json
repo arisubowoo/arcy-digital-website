@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nama": "Buket Turkish and Yellow",
+    "harga": 65000,
+    "deskripsi": "Buket mewah dengan kombinasi mawar artifisial berwarna kuning cerah dan biru metallic yang elegan. Setiap mawar memiliki detail glitter silver yang memukau, dikombinasikan dengan daun hijau yang memberikan sentuhan natural. Dikemas dengan wrapping putih bertepi emas berbentuk bintang yang eksklusif, dilapisi tissue putih yang lembut, dan kain sheer berwarna beige dengan glitter yang menambah kemewahan. Buket ini sempurna untuk berbagai acara spesial. Bisa request sesuai keinginan & sesuai budget.",
+    "gambar": "/images/buket-turkish-yellow.jpeg",
+    "kategori": "Spesial",
+    "stok": 15
+  },
+  {
+    "id": 2,
+    "nama": "Buket Wedding",
+    "harga": 150000,
+    "deskripsi": "Buket uang yang elegan dan mewah dengan dekorasi bunga artifisial yang indah. Dilengkapi dengan uang kertas Rupiah yang di-fan dengan rapi, kartu ucapan \"Happy Wedding\", dan hiasan kupu-kupu. Dikemas dengan wrapping putih dan lavender yang cantik, sempurna untuk hadiah pernikahan atau ucapan selamat. Buket ini memberikan kesan istimewa dan berkesan untuk momen spesial. Bisa request sesuai keinginan & sesuai budget.",
+    "gambar": "/images/buket-uang.jpeg",
+    "kategori": "Spesial",
+    "stok": 20
+  },
+  {
+    "id": 3,
+    "nama": "Buket Snack",
+    "harga": 75000,
+    "deskripsi": "Buket snack yang unik dan kreatif, sempurna untuk hadiah yang berbeda dan menyenangkan. Dikemas dengan indah menggunakan berbagai snack favorit yang disusun dengan rapi dan menarik. Cocok untuk berbagai acara seperti ulang tahun, perayaan, atau sekadar memberikan kejutan manis. Buket ini dapat dikustomisasi sesuai keinginan dan budget Anda. Bisa request snack favorit, ukuran, dan desain sesuai kebutuhan.",
+    "gambar": "/images/buket-snack.jpeg",
+    "kategori": "Spesial",
+    "stok": 12
+  },
+  {
+    "id": 4,
+    "nama": "Buket Satin Burgundy",
+    "harga": 70000,
+    "deskripsi": "Buket elegan dengan mawar satin berwarna burgundy yang mewah dan klasik. Warna burgundy yang dalam memberikan kesan romantis dan sophisticated. Dikemas dengan wrapping satin yang halus dan dekorasi yang rapi, sempurna untuk momen spesial seperti anniversary, valentine, atau deklarasi cinta. Buket ini memberikan kesan mewah namun tetap hangat dan penuh kasih sayang. Bisa request sesuai keinginan & sesuai budget.",
+    "gambar": "/images/buket-satin-burgundy.jpeg",
+    "kategori": "Spesial",
+    "stok": 18
+  }
+]
